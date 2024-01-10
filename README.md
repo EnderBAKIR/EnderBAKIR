@@ -12,4 +12,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enderbakir&show_icons=true&locale=en" alt="enderbakir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EnderBAKIR&" alt="EnderBAKIR" /></p>
+
